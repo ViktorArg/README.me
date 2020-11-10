@@ -1,4 +1,4 @@
-I'm a Fullstack Web Developer Junior :male-technologist: with advanced knowledge in the following technologies and frameworks: JavaScript, HTML, CSS, Less, Bootstrap, React, Redux, Node Js, Express, Testing, PostgreSQL, Sequelize, GitHub, Trello, etc. I'm eager to start working as a developer to improve my skills and continue learning new technologies.
+I'm a Fullstack Web Developer Junior with advanced knowledge in the following technologies and frameworks: JavaScript, HTML, CSS, Less, Bootstrap, React, Redux, Node Js, Express, Testing, PostgreSQL, Sequelize, GitHub, Trello, etc. I'm eager to start working as a developer to improve my skills and continue learning new technologies.
 
 I have the experience working in team developing two projects (4 sprints each) with scrum, agile methodologies. The first one was a prototype of a Sport Ecommerce where we use; React, Redux, Bootstrap, Ant design, etc. in the Front End and for the Back End; Node.js with Express Router, Passport Authentication, Mailgun, Sequelize and PostreSQL.
 
