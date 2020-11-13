@@ -2,7 +2,7 @@ I'm a Fullstack Web Developer Junior with advanced knowledge in the following te
 
 I have the experience working in team developing two projects (4 sprints each) with scrum, agile methodologies. The first one was a prototype of a Sport Ecommerce where we use; React, Redux, Bootstrap, Ant design, etc. in the Front End and for the Back End; Node.js with Express Router, Passport Authentication, Mailgun, Sequelize and PostreSQL.
 
-The second project was a Digital Bank App (Wallet) prototype with a mobile first concept using React Native, Redux, Expo in the Front End and for the Back End we implemented a microservices structure with Express Gateway, Passport, Sendgrid, Sequelize and PostreSQL.
+The second project was a Digital Wallet App, called Henry Bank which is a mobile first concept using React Native, Redux, Expo in the Front End and for the Back End we implemented a microservices architecture with Express Gateway, Passport, Sendgrid, Sequelize and PostreSQL.
 
 If you like, you can take a look to the projects and please send me your comments:
 - Email: victorguilianarg@gmail.com
