@@ -8,3 +8,7 @@ If you like, you can take a look to the projects and please send me your comment
 - Email: victorguilianarg@gmail.com
 
 Before I took the decision of diving into the digital world and became a programmer, I'd studied Petroleum Engineering and had the experience of working in the Oil Industry for almost 5 years as a Company Man leading the operations, men and logistics of many drilling rigs, ensuring everything were executed according to the plan in a safe and efficient manner. 
+
+
+[![Click Here](https://img.youtube.com/vi/t1KtkQB5uQ8/0.jpg)](https://www.youtube.com/watch?v=t1KtkQB5uQ8) 
+Click Me
