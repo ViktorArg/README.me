@@ -1,4 +1,4 @@
-{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEMfkZmiUE","i":"Rb02xd6YXYMU3h0xJvZKRw","b":1605381028591,"A":[{"A?":"I","A":86.91000000001088,"B":168.00000000001637,"D":863.9999999999674,"C":576.1799999999782,"a":{"B":{"A":{"A":"MADQ5gQTmZk","B":1},"B":{"D":863.9999999999674,"C":576.1799999999782}}}}],"B":1080,"C":1080}
+
 
 I'm a Fullstack Web Developer Junior with advanced knowledge in the following technologies and frameworks: JavaScript, HTML, CSS, Less, Bootstrap, React, Redux, Node Js, Express, Testing, PostgreSQL, Sequelize, GitHub, Trello, etc. I'm eager to start working as a developer to improve my skills and continue learning new technologies.
 
